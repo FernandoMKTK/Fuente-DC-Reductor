@@ -32,10 +32,12 @@ Uso del LM2576 para regular la salida y evitar oscilaciones indeseadas.
 ## Resultados y Simulación
 Se realizaron simulaciones en Proteus 📡 para validar el diseño.
 Se compararon resultados antes y después de la implementación de la retroalimentación, logrando una salida de voltaje estable.
-📎 Archivos del Proyecto
-📄 Informe Técnico
-🔬 Archivo de Simulación Proteus
-🚀 Mejoras y Futuro Trabajo
-Implementación en hardware real.
-Optimización de componentes para mayor eficiencia.
-Comparación con otros métodos de regulación de voltaje.
+
+## Archivos del Proyecto
+- Informe Técnico
+- Archivo de Simulación Proteus
+
+## Mejoras y Futuro Trabajo
+- Implementación en hardware real.
+- Optimización de componentes para mayor eficiencia.
+- Comparación con otros métodos de regulación de voltaje.
