@@ -17,12 +17,15 @@ Regulador LM2576  (Retroalimentación y regulación de voltaje)
 🔹 1. Etapa de Conmutación
 Uso de MOSFETs como interruptores electrónicos.
 Control mediante señal de PWM.
+
 🔹 2. Etapa de Almacenamiento de Energía
 Uso de inductores y capacitores para garantizar estabilidad.
 Carga y descarga controlada para evitar oscilaciones.
+
 🔹 3. Etapa de Generación de PWM
 Implementación de un oscilador con OpAmp LM741.
 Ajuste de duty cycle para regular la tensión de salida.
+
 🔹 4. Etapa de Retroalimentación
 Uso del LM2576 para regular la salida y evitar oscilaciones indeseadas.
 
