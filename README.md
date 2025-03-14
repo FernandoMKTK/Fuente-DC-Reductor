@@ -7,11 +7,11 @@ Este proyecto consiste en el diseño e implementación de una fuente DC reductor
 El objetivo principal es diseñar una fuente de alimentación eficiente que reduzca un voltaje de entrada a un nivel de voltaje más bajo y estable, minimizando pérdidas de energía y asegurando una regulación precisa mediante técnicas de PWM y retroalimentación.
 
 ## Tecnologías y Herramientas Utilizadas
-Proteus  (Simulación del circuito)
-MOSFETs (Conmutación de voltaje)
-Diodo Schottky 1N5822  (Protección contra inversión de corriente)
-OpAmp LM741  (Generación de PWM)
-Regulador LM2576  (Retroalimentación y regulación de voltaje)
+- Proteus  (Simulación del circuito)
+- MOSFETs (Conmutación de voltaje)
+- Diodo Schottky 1N5822  (Protección contra inversión de corriente)
+- OpAmp LM741  (Generación de PWM)
+- Regulador LM2576  (Retroalimentación y regulación de voltaje)
 
 ## Estructura del Proyecto
 🔹 1. Etapa de Conmutación
