@@ -30,8 +30,8 @@ Ajuste de duty cycle para regular la tensión de salida.
 Uso del LM2576 para regular la salida y evitar oscilaciones indeseadas.
 
 ## Resultados y Simulación
-Se realizaron simulaciones en Proteus 📡 para validar el diseño.
-Se compararon resultados antes y después de la implementación de la retroalimentación, logrando una salida de voltaje estable.
+- Se realizaron simulaciones en Proteus para validar el diseño.
+- Se compararon resultados antes y después de la implementación de la retroalimentación, logrando una salida de voltaje estable.
 
 ## Archivos del Proyecto
 - Informe Técnico
